@@ -1,0 +1,21 @@
+/*Name- Faiyaz shaikh 
+UIN:-241A042
+Roll No.:-34
+
+Aim: WAP to print your name, age, class, division and UIN on the screen.
+ Use escape sequences to properly format the output.
+ 
+*/
+
+#include<stdio.h>
+int main()
+{
+	printf("Name\t\t:Faiyaz shaikh \nAge\t\t:18\nClass\t\t:FE\nDivision\t:A\nUIN\t\t:241A037");
+	return 0;
+}
+/*Name           :Faiyaz shaikh
+Age             :18
+Class           :FE
+Division        :A
+UIN             :241A037
+*/
